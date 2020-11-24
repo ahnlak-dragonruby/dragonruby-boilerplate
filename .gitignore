@@ -8,7 +8,12 @@ console_history.txt
 ctags-emacs
 ctags-vim
 dragonruby
+dragonruby-bind
 dragonruby-httpd
 dragonruby-publish
+dragonruby.exe
+dragonruby-bind.exe
+dragonruby-httpd.exe
+dragonruby-publish.exe
 open-source-licenses.txt
 VERSION.txt
