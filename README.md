@@ -33,16 +33,14 @@ versions of DragonRuby within each of your projects.
 
 For example, I use the following folder structure:
 
-`
-/home/ahnlak
-|---Development
-    |---dragonruby-1.25
-    |---dragonruby-1.26
-    |---dragonruby-1.27
-    |---my_super_dooper_game
-        |---mygame
-        |---....
-`
+    /home/ahnlak
+    |---Development
+        |---dragonruby-1.25
+        |---dragonruby-1.26
+        |---dragonruby-1.27
+        |---my_super_dooper_game
+            |---mygame
+            |---....
 
 From `my_super_dooper_game`, I can then run `copy-dr.sh ../dragonruby-1.27` to
 install the latest DragonRuby, or `copy-dr.sh ../dragonruby-1.25` to regress to
