@@ -1,0 +1,14 @@
+.dragonruby/
+exceptions/
+logs/
+tmp/
+builds/
+CHANGELOG.txt
+console_history.txt
+ctags-emacs
+ctags-vim
+dragonruby
+dragonruby-httpd
+dragonruby-publish
+open-source-licenses.txt
+VERSION.txt
